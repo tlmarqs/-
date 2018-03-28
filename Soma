@@ -1,0 +1,18 @@
+#include<iostream>
+using namespace std;
+
+int main()
+{
+  int a, b;
+  int soma;
+  cout << "Insira um numero\n";
+  cin a;
+  cout << "Insira um numero\n";
+  cin b;
+  soma = a + b;
+  cout << "o resultado e: " << soma << endl;
+  
+  return 0;
+  }
+
+  
